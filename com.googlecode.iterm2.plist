@@ -8146,7 +8146,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2/projects/adi/clusters/dhc-dev</string>
+											<string>/Users/vamship</string>
 										</dict>
 										<key>Hostname to Shell</key>
 										<dict/>
@@ -9106,7 +9106,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2/projects/adi/clusters/dhc-qa</string>
+											<string>/Users/vamship</string>
 										</dict>
 										<key>Hostname to Shell</key>
 										<dict/>
@@ -10066,7 +10066,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2/projects/adi/clusters/dhc-fda</string>
+											<string>/Users/vamship</string>
 										</dict>
 										<key>Hostname to Shell</key>
 										<dict/>
@@ -11026,7 +11026,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2/projects/adi/clusters/dhc-pilot</string>
+											<string>/Users/vamship</string>
 										</dict>
 										<key>Hostname to Shell</key>
 										<dict/>
@@ -11986,7 +11986,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2/projects/adi/clusters</string>
+											<string>/Users/vamship</string>
 										</dict>
 										<key>Hostname to Shell</key>
 										<dict/>
@@ -13117,7 +13117,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2</string>
+											<string>/Users/vamship</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -13148,7 +13148,7 @@
 										<key>Substitutions</key>
 										<dict/>
 										<key>Working Directory</key>
-										<string>/Users/vponnap2/projects/adi/cradle/code/pca-manager-api</string>
+										<string>/Users/vamship</string>
 										<key>Working Directory Poller Disabled</key>
 										<false/>
 									</dict>
@@ -13972,7 +13972,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+													<string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -14003,7 +14003,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2/projects/adi/cradle/code</string>
+												<string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -14824,7 +14824,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+													<string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -14855,7 +14855,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+												<string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -15951,7 +15951,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2</string>
+											<string>/Users/vamship</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -15982,7 +15982,7 @@
 										<key>Substitutions</key>
 										<dict/>
 										<key>Working Directory</key>
-										<string>/Users/vponnap2</string>
+										<string>/Users/vamship</string>
 										<key>Working Directory Poller Disabled</key>
 										<false/>
 									</dict>
@@ -16806,7 +16806,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+													<string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -16837,7 +16837,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+												<string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -17658,7 +17658,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+													<string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -17689,7 +17689,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+												<string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -18788,7 +18788,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2</string>
+											<string>/Users/vamship</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -18819,7 +18819,7 @@
 										<key>Substitutions</key>
 										<dict/>
 										<key>Working Directory</key>
-										<string>/Users/vamship/Desktop</string>
+										<string>/Users/vamship</string>
 										<key>Working Directory Poller Disabled</key>
 										<false/>
 									</dict>
@@ -19645,7 +19645,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+                                                    <string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -19676,7 +19676,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+                                                <string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -20499,7 +20499,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+                                                    <string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -20530,7 +20530,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+                                                <string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -21384,7 +21384,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2</string>
+                                            <string>/Users/vamship</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -21415,7 +21415,7 @@
 										<key>Substitutions</key>
 										<dict/>
 										<key>Working Directory</key>
-										<string>/Users/vponnap2</string>
+                                        <string>/Users/vamship</string>
 										<key>Working Directory Poller Disabled</key>
 										<false/>
 									</dict>
@@ -22150,7 +22150,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+                                                    <string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -22181,7 +22181,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+                                                <string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -22915,7 +22915,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+                                                    <string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -22946,7 +22946,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+                                                <string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -23785,7 +23785,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/vponnap2</string>
+                                            <string>/Users/vamship</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -23816,7 +23816,7 @@
 										<key>Substitutions</key>
 										<dict/>
 										<key>Working Directory</key>
-										<string>/Users/vponnap2</string>
+                                        <string>/Users/vamship</string>
 										<key>Working Directory Poller Disabled</key>
 										<false/>
 									</dict>
@@ -24551,7 +24551,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+                                                    <string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -24582,7 +24582,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+                                                <string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
@@ -25314,7 +25314,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/vponnap2</string>
+                                                    <string>/Users/vamship</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -25345,7 +25345,7 @@
 												<key>Substitutions</key>
 												<dict/>
 												<key>Working Directory</key>
-												<string>/Users/vponnap2</string>
+                                                <string>/Users/vamship</string>
 												<key>Working Directory Poller Disabled</key>
 												<false/>
 											</dict>
