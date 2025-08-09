@@ -7417,7 +7417,7 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>1079</real>
+				<real>833</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -7451,8 +7451,6 @@
 											<key>ASCII Anti Aliased</key>
 											<true/>
 											<key>Allow Title Reporting</key>
-											<false/>
-											<key>Allow Title Setting</key>
 											<false/>
 											<key>Ambiguous Double Width</key>
 											<false/>
@@ -7698,18 +7696,8 @@
 												<key>Red Component</key>
 												<real>0.87843137979507446</real>
 											</dict>
-											<key>Badge Font</key>
-											<string>AndaleMono</string>
-											<key>Badge Max Height</key>
-											<real>0.029999999999999999</real>
-											<key>Badge Max Width</key>
-											<real>0.29999999999999999</real>
-											<key>Badge Right Margin</key>
-											<real>10</real>
 											<key>Badge Text</key>
 											<string></string>
-											<key>Badge Top Margin</key>
-											<real>0.0</real>
 											<key>Blend</key>
 											<real>0.30000001192092896</real>
 											<key>Blink Allowed</key>
@@ -7812,7 +7800,7 @@
 												<real>0.67058825492858887</real>
 											</dict>
 											<key>Guid</key>
-											<string>6B35928E-492E-4553-AE73-9EA4C2E6E86E</string>
+											<string>AC906B3B-4E48-4CFA-A6C3-262F7BF45CC7</string>
 											<key>Has Hotkey</key>
 											<false/>
 											<key>Hide After Opening</key>
@@ -7867,15 +7855,15 @@
 											<key>Name</key>
 											<string>Main</string>
 											<key>Non Ascii Font</key>
-											<string>Monaco 12</string>
+											<string>Menlo-Regular 11</string>
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>Monaco 12</string>
+											<string>Monaco 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
-											<string>63862AE6-5297-4A27-88AD-984BA09FF5FB</string>
+											<string>DBE15446-3DBD-4CDC-8C47-0A461D31334A</string>
 											<key>Prompt Before Closing 2</key>
 											<integer>0</integer>
 											<key>Right Option Key Sends</key>
@@ -7931,8 +7919,6 @@
 											<true/>
 											<key>Shortcut</key>
 											<string></string>
-											<key>Show Status Bar</key>
-											<false/>
 											<key>Silence Bell</key>
 											<false/>
 											<key>Smart Cursor Color</key>
@@ -8028,161 +8014,6 @@
 													<string>\btelnet:([a-z0-9A-Z_]+@)?([a-zA-Z0-9\-]+\.)*[a-zA-Z0-9\-]+\b</string>
 												</dict>
 											</array>
-											<key>Status Bar Layout</key>
-											<dict>
-												<key>advanced configuration</key>
-												<dict>
-													<key>algorithm</key>
-													<integer>0</integer>
-													<key>font</key>
-													<string>.AppleSystemUIFont 12</string>
-												</dict>
-												<key>components</key>
-												<array>
-													<dict>
-														<key>class</key>
-														<string>iTermStatusBarJobComponent</string>
-														<key>configuration</key>
-														<dict>
-															<key>knobs</key>
-															<dict>
-																<key>base: compression resistance</key>
-																<integer>1</integer>
-																<key>base: priority</key>
-																<real>5</real>
-																<key>maxwidth</key>
-																<real>+infinity</real>
-																<key>minwidth</key>
-																<integer>0</integer>
-																<key>shared text color</key>
-																<dict>
-																	<key>Alpha Component</key>
-																	<real>1</real>
-																	<key>Blue Component</key>
-																	<real>0.63</real>
-																	<key>Color Space</key>
-																	<string>sRGB</string>
-																	<key>Green Component</key>
-																	<real>0.63</real>
-																	<key>Red Component</key>
-																	<real>0.90000000000000002</real>
-																</dict>
-															</dict>
-															<key>layout advanced configuration dictionary value</key>
-															<dict>
-																<key>algorithm</key>
-																<integer>0</integer>
-																<key>font</key>
-																<string>.AppleSystemUIFont 12</string>
-															</dict>
-														</dict>
-													</dict>
-													<dict>
-														<key>class</key>
-														<string>iTermStatusBarMemoryUtilizationComponent</string>
-														<key>configuration</key>
-														<dict>
-															<key>knobs</key>
-															<dict>
-																<key>base: compression resistance</key>
-																<integer>1</integer>
-																<key>base: priority</key>
-																<real>5</real>
-															</dict>
-															<key>layout advanced configuration dictionary value</key>
-															<dict>
-																<key>algorithm</key>
-																<integer>0</integer>
-															</dict>
-														</dict>
-													</dict>
-													<dict>
-														<key>class</key>
-														<string>iTermStatusBarNetworkUtilizationComponent</string>
-														<key>configuration</key>
-														<dict>
-															<key>knobs</key>
-															<dict>
-																<key>base: compression resistance</key>
-																<integer>1</integer>
-																<key>base: priority</key>
-																<real>5</real>
-															</dict>
-															<key>layout advanced configuration dictionary value</key>
-															<dict>
-																<key>algorithm</key>
-																<integer>0</integer>
-															</dict>
-														</dict>
-													</dict>
-													<dict>
-														<key>class</key>
-														<string>iTermStatusBarFixedSpacerComponent</string>
-														<key>configuration</key>
-														<dict>
-															<key>knobs</key>
-															<dict>
-																<key>base: compression resistance</key>
-																<integer>1</integer>
-																<key>base: priority</key>
-																<real>5</real>
-																<key>iTermStatusBarFixedSpacerComponentWidthKnob</key>
-																<integer>5</integer>
-																<key>shared text color</key>
-																<dict>
-																	<key>Alpha Component</key>
-																	<real>1</real>
-																	<key>Blue Component</key>
-																	<real>0.63</real>
-																	<key>Color Space</key>
-																	<string>sRGB</string>
-																	<key>Green Component</key>
-																	<real>0.90000000000000002</real>
-																	<key>Red Component</key>
-																	<real>0.63</real>
-																</dict>
-															</dict>
-															<key>layout advanced configuration dictionary value</key>
-															<dict>
-																<key>algorithm</key>
-																<integer>0</integer>
-															</dict>
-														</dict>
-													</dict>
-													<dict>
-														<key>class</key>
-														<string>iTermStatusBarBatteryComponent</string>
-														<key>configuration</key>
-														<dict>
-															<key>knobs</key>
-															<dict>
-																<key>base: compression resistance</key>
-																<integer>1</integer>
-																<key>base: priority</key>
-																<real>5</real>
-																<key>shared text color</key>
-																<dict>
-																	<key>Alpha Component</key>
-																	<real>1</real>
-																	<key>Blue Component</key>
-																	<real>0.90000000000000002</real>
-																	<key>Color Space</key>
-																	<string>sRGB</string>
-																	<key>Green Component</key>
-																	<real>0.63</real>
-																	<key>Red Component</key>
-																	<real>0.63</real>
-																</dict>
-															</dict>
-															<key>layout advanced configuration dictionary value</key>
-															<dict>
-																<key>algorithm</key>
-																<integer>0</integer>
-															</dict>
-														</dict>
-													</dict>
-												</array>
-											</dict>
 											<key>Sync Title</key>
 											<false/>
 											<key>Tags</key>
@@ -8203,8 +8034,6 @@
 											<false/>
 											<key>Use Italic Font</key>
 											<false/>
-											<key>Use Tab Color</key>
-											<false/>
 											<key>Vertical Spacing</key>
 											<real>1</real>
 											<key>Visual Bell</key>
@@ -8215,7 +8044,7 @@
 											<string></string>
 										</dict>
 										<key>Columns</key>
-										<integer>131</integer>
+										<integer>97</integer>
 										<key>Commands</key>
 										<array/>
 										<key>Directories</key>
@@ -8240,39 +8069,19 @@
 										</dict>
 										<key>Overridden Fields</key>
 										<array>
-											<string>Link Color</string>
-											<string>Selected Text Color</string>
-											<string>Ansi 12 Color</string>
-											<string>Original Guid</string>
-											<string>Cursor Text Color</string>
-											<string>Ansi 7 Color</string>
-											<string>Ansi 2 Color</string>
-											<string>Ansi 8 Color</string>
-											<string>Ansi 11 Color</string>
-											<string>Ansi 15 Color</string>
-											<string>Bold Color</string>
-											<string>Ansi 3 Color</string>
-											<string>Ansi 9 Color</string>
-											<string>Name</string>
-											<string>Ansi 14 Color</string>
 											<string>Allow Title Setting</string>
-											<string>Background Color</string>
-											<string>Ansi 10 Color</string>
-											<string>Ansi 4 Color</string>
+											<string>Badge Max Width</string>
+											<string>Name</string>
 											<string>Non Ascii Font</string>
-											<string>Cursor Color</string>
-											<string>Cursor Guide Color</string>
-											<string>Normal Font</string>
-											<string>Ansi 13 Color</string>
-											<string>Ansi 5 Color</string>
-											<string>Badge Color</string>
-											<string>Ansi 0 Color</string>
-											<string>Ansi 6 Color</string>
-											<string>Selection Color</string>
-											<string>Match Background Color</string>
-											<string>Foreground Color</string>
+											<string>Badge Right Margin</string>
+											<string>Original Guid</string>
 											<string>Guid</string>
-											<string>Ansi 1 Color</string>
+											<string>Badge Top Margin</string>
+											<string>Badge Max Height</string>
+											<string>Use Tab Color</string>
+											<string>Show Status Bar</string>
+											<string>Badge Font</string>
+											<string>Status Bar Layout</string>
 										</array>
 										<key>Program</key>
 										<dict>
@@ -8280,9 +8089,9 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>61</integer>
+										<integer>44</integer>
 										<key>Session GUID</key>
-										<string>4BB7C72F-95FB-482B-A6AB-6F9168225C46</string>
+										<string>B820AA4E-A0A0-455F-A549-024B4FD5DD74</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -8301,9 +8110,9 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>1050</real>
+										<real>804</real>
 										<key>width</key>
-										<real>929</real>
+										<real>790</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -8325,8 +8134,6 @@
 													<key>ASCII Anti Aliased</key>
 													<true/>
 													<key>Allow Title Reporting</key>
-													<false/>
-													<key>Allow Title Setting</key>
 													<false/>
 													<key>Ambiguous Double Width</key>
 													<false/>
@@ -8674,7 +8481,7 @@
 														<real>0.67058825492858887</real>
 													</dict>
 													<key>Guid</key>
-													<string>ABBAD872-A445-49CF-8C3C-4A1B16993A9F</string>
+													<string>7C13FF20-D02E-455D-ADA9-EFCBD1E538F4</string>
 													<key>Has Hotkey</key>
 													<false/>
 													<key>Hide After Opening</key>
@@ -8729,15 +8536,15 @@
 													<key>Name</key>
 													<string>Build</string>
 													<key>Non Ascii Font</key>
-													<string>Monaco 12</string>
+													<string>Menlo-Regular 11</string>
 													<key>Non-ASCII Anti Aliased</key>
 													<true/>
 													<key>Normal Font</key>
-													<string>Monaco 11</string>
+													<string>Monaco 12</string>
 													<key>Option Key Sends</key>
 													<integer>0</integer>
 													<key>Original Guid</key>
-													<string>52F3B8DE-B3EC-44A9-876E-C9795BA319FE</string>
+													<string>E1972F04-F248-4AB4-8D8C-843E03378A76</string>
 													<key>Prompt Before Closing 2</key>
 													<integer>0</integer>
 													<key>Right Option Key Sends</key>
@@ -8918,7 +8725,7 @@
 													<string></string>
 												</dict>
 												<key>Columns</key>
-												<integer>112</integer>
+												<integer>95</integer>
 												<key>Commands</key>
 												<array/>
 												<key>Directories</key>
@@ -8943,38 +8750,11 @@
 												</dict>
 												<key>Overridden Fields</key>
 												<array>
-													<string>Link Color</string>
-													<string>Selected Text Color</string>
-													<string>Ansi 12 Color</string>
 													<string>Original Guid</string>
-													<string>Cursor Text Color</string>
-													<string>Ansi 7 Color</string>
-													<string>Ansi 2 Color</string>
-													<string>Ansi 8 Color</string>
-													<string>Ansi 11 Color</string>
-													<string>Ansi 15 Color</string>
-													<string>Bold Color</string>
-													<string>Ansi 3 Color</string>
-													<string>Ansi 9 Color</string>
 													<string>Name</string>
-													<string>Ansi 14 Color</string>
 													<string>Allow Title Setting</string>
-													<string>Background Color</string>
-													<string>Ansi 10 Color</string>
-													<string>Ansi 4 Color</string>
-													<string>Cursor Color</string>
-													<string>Cursor Guide Color</string>
-													<string>Normal Font</string>
-													<string>Ansi 13 Color</string>
-													<string>Ansi 5 Color</string>
-													<string>Badge Color</string>
-													<string>Ansi 0 Color</string>
-													<string>Ansi 6 Color</string>
-													<string>Selection Color</string>
-													<string>Match Background Color</string>
-													<string>Foreground Color</string>
+													<string>Non Ascii Font</string>
 													<string>Guid</string>
-													<string>Ansi 1 Color</string>
 												</array>
 												<key>Program</key>
 												<dict>
@@ -8982,9 +8762,9 @@
 													<string>Shell Launcher</string>
 												</dict>
 												<key>Rows</key>
-												<integer>18</integer>
+												<integer>12</integer>
 												<key>Session GUID</key>
-												<string>E4199D0F-A318-4DB9-9482-D03131CAB33E</string>
+												<string>D538C5A6-C1AB-46A1-B765-E89376C61793</string>
 												<key>Short Lived Single Use</key>
 												<false/>
 												<key>Should Expect Current Dir Updates</key>
@@ -9003,9 +8783,9 @@
 											<key>frame</key>
 											<dict>
 												<key>height</key>
-												<real>283</real>
+												<real>214</real>
 												<key>width</key>
-												<real>798</real>
+												<real>679</real>
 												<key>x</key>
 												<real>0.0</real>
 												<key>y</key>
@@ -9022,8 +8802,6 @@
 													<key>ASCII Anti Aliased</key>
 													<true/>
 													<key>Allow Title Reporting</key>
-													<false/>
-													<key>Allow Title Setting</key>
 													<false/>
 													<key>Ambiguous Double Width</key>
 													<false/>
@@ -9371,7 +9149,7 @@
 														<real>0.67058825492858887</real>
 													</dict>
 													<key>Guid</key>
-													<string>7BB03031-0038-420B-BCD7-8FD079E4C301</string>
+													<string>2B79CA0A-37C3-4155-8289-5A18EAE7EE4C</string>
 													<key>Has Hotkey</key>
 													<false/>
 													<key>Hide After Opening</key>
@@ -9426,15 +9204,15 @@
 													<key>Name</key>
 													<string>Utils</string>
 													<key>Non Ascii Font</key>
-													<string>Monaco 12</string>
+													<string>Menlo-Regular 11</string>
 													<key>Non-ASCII Anti Aliased</key>
 													<true/>
 													<key>Normal Font</key>
-													<string>Monaco 11</string>
+													<string>Monaco 12</string>
 													<key>Option Key Sends</key>
 													<integer>0</integer>
 													<key>Original Guid</key>
-													<string>52F3B8DE-B3EC-44A9-876E-C9795BA319FE</string>
+													<string>E1972F04-F248-4AB4-8D8C-843E03378A76</string>
 													<key>Prompt Before Closing 2</key>
 													<integer>0</integer>
 													<key>Right Option Key Sends</key>
@@ -9587,19 +9365,6 @@
 													</array>
 													<key>Sync Title</key>
 													<false/>
-													<key>Tab Color</key>
-													<dict>
-														<key>Alpha Component</key>
-														<real>1</real>
-														<key>Blue Component</key>
-														<real>0.21176470816135406</real>
-														<key>Color Space</key>
-														<string>sRGB</string>
-														<key>Green Component</key>
-														<real>0.13725490868091583</real>
-														<key>Red Component</key>
-														<real>0.11764705926179886</real>
-													</dict>
 													<key>Tags</key>
 													<array/>
 													<key>Terminal Type</key>
@@ -9628,7 +9393,7 @@
 													<string></string>
 												</dict>
 												<key>Columns</key>
-												<integer>112</integer>
+												<integer>95</integer>
 												<key>Commands</key>
 												<array/>
 												<key>Directories</key>
@@ -9653,39 +9418,12 @@
 												</dict>
 												<key>Overridden Fields</key>
 												<array>
-													<string>Link Color</string>
-													<string>Selected Text Color</string>
-													<string>Ansi 12 Color</string>
 													<string>Original Guid</string>
-													<string>Cursor Text Color</string>
-													<string>Ansi 7 Color</string>
-													<string>Ansi 2 Color</string>
-													<string>Ansi 8 Color</string>
-													<string>Ansi 11 Color</string>
-													<string>Ansi 15 Color</string>
-													<string>Bold Color</string>
-													<string>Ansi 3 Color</string>
-													<string>Ansi 9 Color</string>
 													<string>Name</string>
-													<string>Ansi 14 Color</string>
 													<string>Allow Title Setting</string>
-													<string>Background Color</string>
-													<string>Ansi 10 Color</string>
-													<string>Ansi 4 Color</string>
-													<string>Cursor Color</string>
-													<string>Cursor Guide Color</string>
-													<string>Normal Font</string>
-													<string>Ansi 13 Color</string>
-													<string>Ansi 5 Color</string>
+													<string>Non Ascii Font</string>
 													<string>Tab Color</string>
-													<string>Badge Color</string>
-													<string>Ansi 0 Color</string>
-													<string>Ansi 6 Color</string>
-													<string>Selection Color</string>
-													<string>Match Background Color</string>
-													<string>Foreground Color</string>
 													<string>Guid</string>
-													<string>Ansi 1 Color</string>
 												</array>
 												<key>Program</key>
 												<dict>
@@ -9693,9 +9431,9 @@
 													<string>Shell Launcher</string>
 												</dict>
 												<key>Rows</key>
-												<integer>50</integer>
+												<integer>34</integer>
 												<key>Session GUID</key>
-												<string>7BB3DFDB-4D66-4632-88DB-C41811778EB1</string>
+												<string>F8854C9C-A279-4D74-A26A-F9F2687D9C47</string>
 												<key>Short Lived Single Use</key>
 												<false/>
 												<key>Should Expect Current Dir Updates</key>
@@ -9714,13 +9452,13 @@
 											<key>frame</key>
 											<dict>
 												<key>height</key>
-												<real>766</real>
+												<real>589</real>
 												<key>width</key>
-												<real>798</real>
+												<real>679</real>
 												<key>x</key>
 												<real>0.0</real>
 												<key>y</key>
-												<real>284</real>
+												<real>215</real>
 											</dict>
 										</dict>
 									</array>
@@ -9729,11 +9467,11 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>1050</real>
+										<real>804</real>
 										<key>width</key>
-										<real>798</real>
+										<real>679</real>
 										<key>x</key>
-										<real>930</real>
+										<real>791</real>
 										<key>y</key>
 										<real>0.0</real>
 									</dict>
@@ -9746,9 +9484,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>1050</real>
+								<real>804</real>
 								<key>width</key>
-								<real>1728</real>
+								<real>1470</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -9782,22 +9520,28 @@
 					<array>
 						<dict>
 							<key>heightAsFraction</key>
-							<real>1</real>
+							<real>0.88619402985074625</real>
 							<key>name</key>
 							<string>Profiles</string>
+						</dict>
+						<dict>
+							<key>heightAsFraction</key>
+							<real>0.11380597014925373</real>
+							<key>name</key>
+							<string>Actions</string>
 						</dict>
 					</array>
 				</dict>
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>1728</real>
+				<real>1470</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
 				<real>0.0</real>
 				<key>Y Origin</key>
-				<real>0.0</real>
+				<real>85</real>
 			</dict>
 		</array>
 		<key>Default - Solarized Dark</key>
